@@ -1,0 +1,55 @@
+2021-10-25 08:51:38.343 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: ..\resources\data.txt (The system cannot find the path specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at Main.main(Main.java:14) [classes/:?]
+2021-10-25 09:16:52.861 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: ..\data.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at Main.main(Main.java:31) [classes/:?]
+2021-10-25 09:18:06.653 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: ..\data.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at Main.main(Main.java:32) [classes/:?]
+2021-10-25 09:18:27.953 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: ..\data.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at Main.main(Main.java:32) [classes/:?]
+2021-10-25 09:18:47.805 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: ..\data.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:75) ~[?:?]
+	at Main.main(Main.java:32) [classes/:?]
+2021-10-25 09:19:22.561 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: C:\Users\DADA\Desktop\BTU\java\Homeworks\Davaleba_2\..\data.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at Main.main(Main.java:32) [classes/:?]
+2021-10-25 09:19:40.188 [main] ERROR Main - Error during reading system input
+java.io.FileNotFoundException: C:\Users\DADA\Desktop\BTU\java\Homeworks\Davaleba_2\data.txt (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method) ~[?:?]
+	at java.io.FileInputStream.open(FileInputStream.java:219) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:157) ~[?:?]
+	at java.io.FileInputStream.<init>(FileInputStream.java:112) ~[?:?]
+	at java.io.FileReader.<init>(FileReader.java:60) ~[?:?]
+	at Main.main(Main.java:32) [classes/:?]
